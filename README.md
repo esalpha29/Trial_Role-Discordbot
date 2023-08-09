@@ -1,29 +1,30 @@
 # Free Trial Role Discord Bot
 
-
-🔥  Introducing the Free Trial Role Discord Bot!  🔥
+🔥 **Introducing the Free Trial Role Discord Bot!** 🔥
 
 Hello, Ever wanted to offer limited-time access to specific roles in your Discord server? Our bot makes it seamless! Give members a taste of premium channels, perks, or content for a set period, then automate their role removal. Perfect for communities that offer exclusive benefits, content creators, or gaming servers! 🎮✨
 
-👾  Features:
+## 👾 Features:
 
-✓ Set customizable trial durations
-✓ Automatic role assignment & removal
-✓ User-friendly commands and interface
-✓ Custom Bot Status
+- ✓ Set customizable trial durations
+- ✓ Automatic role assignment & removal
+- ✓ User-friendly commands and interface
+- ✓ Custom Bot Status
 
-
-⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯|  Installation Guide  |⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
-
+---
+### | Installation Guide |
+---
 
 ▶️ This bot is created by esalpha.
 
-▶️ To run the bot, you need to install latest version of Python on your computer and you can use any kind of code editor to edit any part of the code.
+▶️ To run the bot, you need to install the latest version of Python on your computer and you can use any kind of code editor to edit any part of the code.
 
-▶️ Write the following code into your terminal to install discord.py library to run our bot perfectly:
-        pip install discord.py
-        pip install python-dotenv
-        pip install aiohttp
+▶️ Write the following code into your terminal to install the required libraries:
+```bash
+pip install discord.py
+pip install python-dotenv
+pip install aiohttp
+
 
 ▶️ Now just type "python bot.py" into your terminal to start the bot.
 

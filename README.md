@@ -39,12 +39,14 @@ pip install aiohttp
 
 ▶️ This code is not for sale.
 
+▶️ If you need any kind of help or support, just join my discord server and tag me in any channel; i'm happy to assist you with any problem.
+
 ---
 
 
-*If you need any kind of help or support, just join my discord server and tag me in any channel; i'm happy to assist you with any problem.*
+⭐ If you want to get this working Bot or just the bot code then join my Discord Server and open a ticket. 
 
-**📌 My Discord Server:**  https://discord.gg/HWKsXcMazv
+**📌 Discord Server:**  https://discord.gg/HWKsXcMazv
 
 **🌐 My Site:**  https://alphadiscord.com/
 

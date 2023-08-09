@@ -20,6 +20,7 @@ Perfect for communities that offer exclusive benefits, content creators, or gami
 
 ##  📃  Installation Guide: 
 
+---
 
 ▶️ This bot is created by esalpha.
 
@@ -41,7 +42,6 @@ pip install aiohttp
 
 ▶️ If you need any kind of help or support, just join my discord server and tag me in any channel; i'm happy to assist you with any problem.
 
-
 ---
 
 
@@ -50,7 +50,6 @@ pip install aiohttp
 **📌 Discord Server:**  https://discord.gg/HWKsXcMazv
 
 **🌐 My Site:**  https://alphadiscord.com/
-
 
 
 

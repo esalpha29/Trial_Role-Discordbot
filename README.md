@@ -8,7 +8,7 @@ Our bot makes it seamless! Give members a taste of premium channels, perks, or c
 Perfect for communities that offer exclusive benefits, content creators, or gaming servers! 🎮✨
 
 
-## 👾 Features:
+##  👾 Features:
 
 - ✓ Set customizable trial durations
 - ✓ Automatic role assignment & removal
@@ -17,7 +17,7 @@ Perfect for communities that offer exclusive benefits, content creators, or gami
 
 
 
-## |📃  Installation Guide: 
+##  📃  Installation Guide: 
 
 ---
 

@@ -24,7 +24,7 @@ Hello, Ever wanted to offer limited-time access to specific roles in your Discor
 pip install discord.py
 pip install python-dotenv
 pip install aiohttp
-
+```
 
 ▶️ Now just type "python bot.py" into your terminal to start the bot.
 

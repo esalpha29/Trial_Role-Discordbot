@@ -36,12 +36,13 @@ pip install aiohttp
 ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
 
 
-▶️ If you need any kind of help or support, just join my discord server and tag me in any channel; i'm happy to assist you with any problem.
+*If you need any kind of help or support, just join my discord server and tag me in any channel; i'm happy to assist you with any problem.*
 
-📌 My Discord Server:  https://discord.gg/HWKsXcMazv
-🌐 My Site:  https://alphadiscord.com/
+**📌 My Discord Server:**  https://discord.gg/HWKsXcMazv
+
+**🌐 My Site:**  https://alphadiscord.com/
 
 
 
 
-Copyright (c) 2023 esalpha. All rights reserved.
+```Copyright (c) 2023 esalpha. All rights reserved.```

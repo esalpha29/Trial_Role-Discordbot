@@ -16,10 +16,10 @@ Perfect for communities that offer exclusive benefits, content creators, or gami
 - ✓ Custom Bot Status
 
 
+---
 
 ##  📃  Installation Guide: 
 
----
 
 ▶️ This bot is created by esalpha.
 
@@ -40,6 +40,7 @@ pip install aiohttp
 ▶️ This code is not for sale.
 
 ▶️ If you need any kind of help or support, just join my discord server and tag me in any channel; i'm happy to assist you with any problem.
+
 
 ---
 

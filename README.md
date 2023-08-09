@@ -11,8 +11,8 @@ Hello, Ever wanted to offer limited-time access to specific roles in your Discor
 - ✓ User-friendly commands and interface
 - ✓ Custom Bot Status
 
----
-### |📃  Installation Guide |
+
+## |📃  Installation Guide |
 ---
 
 ▶️ This bot is created by esalpha.

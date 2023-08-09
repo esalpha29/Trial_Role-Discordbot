@@ -2,7 +2,10 @@
 
 🔥 **Introducing the Free Trial Role Discord Bot!** 🔥
 
-Hello, Ever wanted to offer limited-time access to specific roles in your Discord server? Our bot makes it seamless! Give members a taste of premium channels, perks, or content for a set period, then automate their role removal. Perfect for communities that offer exclusive benefits, content creators, or gaming servers! 🎮✨
+Hello, Ever wanted to offer limited-time access to specific roles in your Discord server? 
+Our bot makes it seamless! Give members a taste of premium channels, perks, or content for a set period, then automate their role removal. 
+Perfect for communities that offer exclusive benefits, content creators, or gaming servers! 🎮✨
+
 
 ## 👾 Features:
 
@@ -13,7 +16,8 @@ Hello, Ever wanted to offer limited-time access to specific roles in your Discor
 
 
 
-## |📃  Installation Guide |
+## |📃  Installation Guide: 
+
 ---
 
 ▶️ This bot is created by esalpha.
@@ -33,7 +37,6 @@ pip install aiohttp
 ▶️ You can easily customize any part of the code.
 
 ▶️ This code is not for sale.
-
 
 ---
 

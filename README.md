@@ -1,4 +1,4 @@
-# Free Trial Role Discord Bot
+# __Free Trial Role Discord Bot__
 
 🔥 **Introducing the Free Trial Role Discord Bot!** 🔥
 
@@ -12,7 +12,7 @@ Hello, Ever wanted to offer limited-time access to specific roles in your Discor
 - ✓ Custom Bot Status
 
 ---
-### | Installation Guide |
+### |📃  Installation Guide |
 ---
 
 ▶️ This bot is created by esalpha.
@@ -20,6 +20,7 @@ Hello, Ever wanted to offer limited-time access to specific roles in your Discor
 ▶️ To run the bot, you need to install the latest version of Python on your computer and you can use any kind of code editor to edit any part of the code.
 
 ▶️ Write the following code into your terminal to install the required libraries:
+
 ```bash
 pip install discord.py
 pip install python-dotenv

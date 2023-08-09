@@ -1,4 +1,5 @@
-# __Free Trial Role Discord Bot__
+# <u>Free Trial Role Discord Bot</u>
+
 
 🔥 **Introducing the Free Trial Role Discord Bot!** 🔥
 

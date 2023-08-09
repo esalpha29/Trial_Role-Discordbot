@@ -7,8 +7,8 @@ Hello, Ever wanted to offer limited-time access to specific roles in your Discor
 
 👾  Features:
 
-✓ Set customizable trial durations\n
-✓ Automatic role assignment & removal\n
+✓ Set customizable trial durations
+✓ Automatic role assignment & removal
 ✓ User-friendly commands and interface
 ✓ Custom Bot Status
 

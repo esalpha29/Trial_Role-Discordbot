@@ -38,8 +38,6 @@ pip install aiohttp
 
 ▶️ You can easily customize any part of the code.
 
-▶️ This code is not for sale.
-
 ▶️ If you need any kind of help or support, just join my discord server and tag me in any channel; i'm happy to assist you with any problem.
 
 ---

@@ -47,7 +47,7 @@ pip install aiohttp
 
 ⭐ If you want to get this working Bot or just the bot code then join my Discord Server and open a ticket. 
 
-**📌 Discord Server:**  https://discord.gg/HWKsXcMazv
+**📌 Discord Server:**  https://discord.gg/R9UpynNDPT
 
 **🌐 My Site:**  https://alphadiscord.com/
 

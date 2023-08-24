@@ -40,10 +40,12 @@ pip install aiohttp
 
 ▶️ If you need any kind of help or support, just join my discord server and tag me in any channel; i'm happy to assist you with any problem.
 
+**More Features will be added Soon!**
+
 ---
 
 
-⭐ If you want to get this working Bot or just the bot code then join my Discord Server and open a ticket. 
+⭐ If you want to get this working bot or just the bot source code, then join my Discord server and open a ticket. I'll reply to you ASAP.
 
 **📌 Discord Server:**  https://discord.gg/R9UpynNDPT
 

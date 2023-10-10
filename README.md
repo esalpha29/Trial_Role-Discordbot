@@ -50,7 +50,9 @@ pip install aiohttp
 **📌 Discord Server:**  https://discord.gg/R9UpynNDPT
 
 **🌐 My Site:**  https://alphadiscord.com/
-
 <br> </br>
 
+![Commands](/cmd.png)
+
+<br> </br>
 ```Copyright (c) 2023 esalpha. All rights reserved.```

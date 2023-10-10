@@ -5,7 +5,10 @@
 
 Hello, Ever wanted to offer limited-time access to specific roles in your Discord server? 
 Our bot makes it seamless! Give members a taste of premium channels, perks, or content for a set period, then automate their role removal. 
-Perfect for communities that offer exclusive benefits, content creators, or gaming servers! 🎮✨
+Perfect for communities that offer exclusive benefits, content creators, Trading, Education, services, business and premium paid servers. 🎮✨
+Check out all of the bot commands in the picture provided down below.
+
+### 💵 The Price is only $5 Lifetime. 
 
 ---
 ##  👾 Features:
@@ -14,6 +17,12 @@ Perfect for communities that offer exclusive benefits, content creators, or gami
 - ✓ Automatic role assignment & removal
 - ✓ User-friendly commands and interface
 - ✓ Custom Bot Status
+- ✓ Setup an automatic role-assignable system
+- ✓ Database System
+- ✓ Never Lose your Data
+- ✓ Continuous modifications to the bot code
+- ✓ 24/7 Support
+-  ✓ Free 3 Months of Bot Hosting
 
 
 ---
